@@ -1,6 +1,20 @@
-# Sujet
+# Détection des Fack News et Deep Fack par l'Intelligence Artificielle
 
-## Résumé
+Projet de recherche de Master 1.  
+À rendre le 24 juin et présentation début septembre.  
+A l'IA School ; 127 Rue Abbé de l'Epée, Bordeaux, 33000, France.  
+Fait par Amos CLEGBAZA, Bouchera BOUCHENNAFA, Nimi CHRISBERT, Wilfried RICHARD
+
+- [Introduction](#introduction)
+  - [Résumé](#resume)
+- [Données](#donnees)
+- [Problématique](#problematique)
+- [Résultas](#resultas)
+- [Conclution](#conclution)
+
+## Introduction
+
+### Résumé
 
 Se repertoire serviras à redigé le projet IA sur les sujet des Fack News.
 Il représante l'aboutissemnt du Master 1 par la mise en protique de nos connaissance  de nos savoir et réfleion aquises
@@ -15,8 +29,6 @@ Pour le Master 1 nous devrons dévloper une IA :
 - Recherche des ***source*** de données cohérentes et pertinante par raport a la porblematique.
 - Utiliser des thecnique d'***apprentisage automatique*** basique pour repondre à la problematique.
 - Presantation des ***resultats et évaluer*** le model.
-
-## Introduction
 
 ## Données
 
