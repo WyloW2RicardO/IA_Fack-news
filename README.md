@@ -5,8 +5,25 @@ Projet de recherche de Master 1.
 A l'IA School ; 127 Rue Abbé de l'Epée, Bordeaux, 33000, France.  
 Fait par Amos CLEGBAZA, Bouchera BOUCHENNAFA, Nimi CHRISBERT, Wilfried RICHARD
 
+### Rapel du sujet
+
+Se repertoire serviras à redigé le projet IA sur les sujet des Fack News.
+Il représante l'aboutissemnt du Master 1 par la mise en protique de nos connaissance  de nos savoir et réfleion aquises
+Le sujet des fack new est une thematique commune et imposée en 2023/2024.
+
+Le projet comproteras les themme de la ***gestion de base de données*** de son ***impacte*** et l'***innovation***
+Pour le Master 1 nous devrons dévloper une IA :
+
+- ***définition*** des termes
+- Analyser l'impact des fack news et des deepfack dans les different ***enjeux contemporains*** sociaux culturel
+- En définire une ***problematique concrète*** (detection, générative, traking, protection, etc...)
+- Recherche des ***source*** de données cohérentes et pertinante par raport a la porblematique.
+- Utiliser des thecnique d'***apprentisage automatique*** basique pour repondre à la problematique.
+- Presantation des ***resultats et évaluer*** le modele.
+
+### Sommaire
+
 - [Introduction](#introduction)
-  - [Résumé](#resume)
 - [Données](#donnees)
 - [Problématique](#problematique)
 - [Résultas](#resultas)
@@ -33,25 +50,6 @@ Conséquences psychologiques et personnelles : la propagation de la désinformat
 Pour relever ces défis, des mesures doivent être prises pour détecter, contrer et limiter la propagation des fausses nouvelles et des deepfakes. Pour ce projet, nous avons choisi de nous pencher sur la problématique de la détection car cela est  est essentiel pour préserver la vérité et l'intégrité de l'information, protéger la démocratie et les droits des individus, renforcer la sécurité et la confiance dans les médias et les plateformes en ligne, et promouvoir la transparence et l'authenticité de l'information diffusée. 
 
 L'objectif de ce projet est donc de développer une Intelligence Artificielle capable de détecter les fake news et deepfakes. Pour ce faire, nous utiliserons des bases de données liées aux fake news et deepfakes afin d'entrainer le modèle IA choisi. Le langage de programmation utilisé pour ce projet est Python, un langage informatique clair et performant énormément utilisé pour traiter de grandes quantités de données.
-
-
-### Résumé
-
-Se repertoire serviras à redigé le projet IA sur les sujet des Fack News.
-Il représante l'aboutissemnt du Master 1 par la mise en protique de nos connaissance  de nos savoir et réfleion aquises
-Le sujet des fack new est une thematique commune et imposée en 2023/2024.
-
-Le projet comproteras les themme de la ***gestion de base de données*** de son ***impacte*** et l'***innovation***
-Pour le Master 1 nous devrons dévloper une IA :
-
-- ***définition*** des termes
-- Analyser l'impact des fack news et des deepfack dans les different ***enjeux contemporains*** sociaux culturel
-- En définire une ***problematique concrète*** (detection, générative, traking, protection, etc...)
-- Recherche des ***source*** de données cohérentes et pertinante par raport a la porblematique.
-- Utiliser des thecnique d'***apprentisage automatique*** basique pour repondre à la problematique.
-- Presantation des ***resultats et évaluer*** le modele.
-
-
 
 ## Données
 
